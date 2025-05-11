@@ -7,7 +7,7 @@ Welcome to the AI Interview Question Generator project — a tool designed to he
 
 ## 🔗 Live URL
 
-**[→ Project Live ](https://your-live-url.com)**  
+**[→ Project Live ](https://interview-gen.onrender.com/)**  
 
 **[→ Groq Console (get your API key)](https://console.groq.com)**
 
